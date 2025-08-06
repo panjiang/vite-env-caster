@@ -34,13 +34,13 @@ Ts **Typescript:** Typescript supported.
 With yarn
 
 ```sh
-yarn add @niku/vite-env-caster
+yarn add @niku/vite-env-caster -D
 ```
 
 With npm
 
 ```sh
-npm i --save @niku/vite-env-caster
+npm i --save @niku/vite-env-caster -D
 ```
 
 Then add `EnvCaster` to you Vite's plugins.
